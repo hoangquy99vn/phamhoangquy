@@ -15,7 +15,7 @@
                             <span class="subheading">New Arrival</span>
                             <div class="horizontal">
                                 <h1 class="mb-4 mt-3">Shoes Collection 2019</h1>
-                                <p class="mb-4">A small river named Duden flows by their place and supplies it with the
+                                <p class="mb-4">A small river name Duden flows by their place and supplies it with the
                                     necessary regelialia. It is a paradisematic country.</p>
                                 <p><a href="#" class="btn-custom">Discover Now</a></p>
                             </div>
